@@ -76,7 +76,8 @@ The goal of this project is to showcase my understanding of RBAC principles and 
 **To run**
 
     npm run dev
-
+    
+**Note : Intitially make one of the user as admin to access admin dashboard
 
 ### **Core Concepts Demonstrated**
     Authentication
